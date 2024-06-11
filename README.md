@@ -71,6 +71,11 @@ Usage
    - Upon successful payment, the product will be automatically set up, and the license will be purchased from MSecurity.
    - The license key will be displayed on the user's service page under Product Details.
 
+Video Tutorial
+--------------
+
+For a video tutorial on how to import products automatically, please watch [this video](https://msecurity.app/download/whmcs1.mp4).
+
 Troubleshooting
 ---------------
 
