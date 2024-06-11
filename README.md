@@ -81,7 +81,7 @@ Troubleshooting
 Support
 -------
 
-For support, please contact [Your Support Email] or visit [Your Support Website].
+For support, please contact contact@msecurity.app or visit https://msecurity.app .
 
 License
 -------
