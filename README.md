@@ -76,6 +76,13 @@ Video Tutorial
 
 For a video tutorial on how to import products automatically, please watch [this video](https://msecurity.app/download/whmcs1.mp4).
 
+
+Get Partner Account(Developer)
+--------------
+
+To get API KEYS, please follow [this link](https://msecurity.app/auth/register) and register new account as a Partner.
+
+
 Troubleshooting
 ---------------
 
